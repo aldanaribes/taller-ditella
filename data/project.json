@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "aldanaribes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269564943?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "aldanaribes",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:53.173Z",
-    "updated_at": "2026-03-19T21:28:53.173Z"
-  }
+    "updated_at": "2026-03-19T21:28:53.173Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "7da5cf39-6c50-4026-a2c4-bafa1f839f4e": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:53.195Z",
+      "created_by": "aldanaribes",
+      "title": "Taller Di tella",
+      "updated_at": "2026-03-19T21:28:53.195Z",
+      "updated_by": "aldanaribes",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "7da5cf39-6c50-4026-a2c4-bafa1f839f4e"
+  ]
 }
